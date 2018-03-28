@@ -27,6 +27,7 @@ h1{
 p{
   font-family: 'Patrick Hand', cursive;
   font-size: 20px;
+  color:grey;
 }
 
 
@@ -138,6 +139,22 @@ a:hover{
 }
 #gaby-bio:hover .overlay3{
   opacity: 0.5;
+}
+
+.amber-info{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 40px;
+  opacity: 1;
+}
+.jason-info{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 40px;
+  opacity: 1;
+}
+.gaby-info{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 40px;
+  opacity: 1;
 }
 
 .text {
