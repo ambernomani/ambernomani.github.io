@@ -84,9 +84,9 @@ button {
 }
 .panel-img{
 	padding-top: 7vh;
-	padding-left: 5vw;
-	padding-right: 5vw;
-	margin-left: 17%;
+	/*padding-left: 5vw;*/
+	/*padding-right: 5vw;*/
+	margin-left: 20%;
 	height: 80vh;
 	/*width: 90vw;*/
 	display: block;
