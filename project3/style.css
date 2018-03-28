@@ -152,6 +152,14 @@ button {
     100% { transform: rotate(15deg); }
 }
 
+.perfect{
+	position: absolute;
+	/*top: 200vh;*/
+	margin-top: 40%;
+	left: 48vw;
+	font-size: 15px;
+	color:white;
+}
 
 
 
