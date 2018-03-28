@@ -195,6 +195,7 @@ a:hover{
   display: inline-block;
 }
 .image-container{
+  padding-left: 1%;
 /*
 	position: relative;
 	margin: 5% auto;
