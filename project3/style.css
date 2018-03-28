@@ -84,9 +84,9 @@ button {
 }
 .panel-img{
 	padding-top: 7vh;
-	/*padding-left: 5vw;*/
-	/*padding-right: 5vw;*/
-	margin-left: 18%;
+	padding-left: 5vw;
+	padding-right: 5vw;
+	margin-left: 17%;
 	height: 80vh;
 	/*width: 90vw;*/
 	display: block;
@@ -100,7 +100,7 @@ button {
 	-webkit-animation-duration: 1s;
   	/*-webkit-animation-delay: 2s;*/
   	margin-top: 2%;
-	margin-left: 50%;
+	margin-left: 47%;
 }
 
 /*@keyframes breathing{
@@ -122,7 +122,6 @@ button {
 }
 
 .creators{
-	
 	font-size: 25px;
 	font-family: 'Patrick Hand', cursive;
 }
