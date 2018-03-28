@@ -20,6 +20,16 @@
 	padding-top: 2em;
 	font-family: 'Rock Salt', cursive;
 }
+input{
+	left: 100px;
+	bottom: 50px;
+	text-align:center;
+	background-color: transparent;
+	border: none;
+	border-color: white;
+	border-radius: 5px;
+	font-family: 'Patrick Hand', cursive;
+}
 button {
 	margin-top: ;
 	text-align:center;
@@ -111,6 +121,16 @@ button {
 	font-size: 30px;
 }
 
+.creators{
+	
+	font-size: 25px;
+	font-family: 'Patrick Hand', cursive;
+}
+
+.creators:hover{
+	font-size: 30px;
+}
+
 #man{
 	position: absolute;
 	top: 475vh;
@@ -133,6 +153,6 @@ button {
     100% { transform: rotate(15deg); }
 }
 
-}
+
 
 

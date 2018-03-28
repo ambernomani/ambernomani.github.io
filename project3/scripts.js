@@ -8,7 +8,7 @@ function back() {
 
 function climb() {
 	var elem = document.getElementById("man");   
-  	var initPos = 125.93;
+  	var initPos = 161.9;
   	var pos = initPos;
   	var id = setInterval(frame, 200);
   	function frame() {
@@ -17,8 +17,8 @@ function climb() {
       		document.getElementById("man").style.animation = "";
     	} else {
       		pos++; 
-      		elem.style.left = 0.27*pos + 'vw'; 
-      		elem.style.top = 600.53- pos + 'vh'; 
+      		elem.style.left = 0.21*pos + 'vw'; 
+      		elem.style.top = 636.9- pos + 'vh'; 
       		document.getElementById("man").style.animation = "shake 2s infinite";
     	}
   	}
