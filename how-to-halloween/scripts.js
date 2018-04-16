@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 
-	var main_video = "https://www.youtube.com/watch?v=PrsV2lF_g8g&controls-0";
+	var main_video = "https://www.youtube.com/watch?v=PrsV2lF_g8g&controls-1";
 	var viz_reacts = "https://www.youtube.com/watch?v=9NnVIoWWiz8&controls=0";
 
 
@@ -23,7 +23,7 @@ $(document).ready(function(){
 	$(".pause-button").show();
 	$(".home").show();
 
-	myVideo.cue(260,function(){
+	myVideo.cue(263,function(){
 		myVideo.pause();
 		$(".full-movie").hide();
 		$(".viz-reacts").hide();

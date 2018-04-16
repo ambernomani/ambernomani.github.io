@@ -76,35 +76,36 @@ html{
 	width: 640px;
 	height: 360px;
   position: absolute;
-  top: 20%;
-  left: 15%;
+  top: 12.5%;
+  left: 13%;
 }
 
 #video-2{
 	width: 640px;
 	height: 360px;
   position: absolute;
-  top: 30%;
-  left: 27%;
+  top: 25%;
+  left: 25%;
 }
 
 .selfie{
   background-image: url('selfie.gif');
+  background-repeat: repeat;
   width: 456px;
   height: 257px;
   position: absolute;
-  top: 35%;
+  top: 30%;
   left: 35%;
 }
 
 .selfie-gif{
-  width: 456px;
+  width: 440px;
   height: 257px;
   position: absolute;
   /* margin-top: 35%; */
 
   top: 35%;
-  left: 35%;
+  left: 40%;
 }
 
 /* Defines the size and position of the light-off container */
